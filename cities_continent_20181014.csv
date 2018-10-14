@@ -1,0 +1,637 @@
+city,country,latitude,longitude,city ID,continent,0
+tuatapere,nz,-46.1357909,167.6892231,2180815,oceania,new zealand
+bluff,nz,-46.5996116,168.3457088,2206939,oceania,new zealand
+waitati,nz,-45.7467546,170.5691162,2179825,oceania,new zealand
+kaeo,nz,-35.1002758,173.7802793,2189343,oceania,new zealand
+westport,nz,-41.7545216,171.6058903,2206900,oceania,new zealand
+christchurch,nz,-43.5320544,172.6362254,2192362,oceania,new zealand
+waipawa,nz,-39.9416112,176.5896379,2206874,oceania,new zealand
+te anau,nz,-45.4144515,167.718053,2181625,oceania,new zealand
+ahipara,nz,-35.17133889999999,173.1532718,2194098,oceania,new zealand
+soure,br,-0.5083679,-48.6388879,3387204,south america,brazil
+catende,br,-8.6679698,-35.7218229,3402528,south america,brazil
+arraial do cabo,br,-22.9673373,-42.0268099,3471451,south america,brazil
+araguaina,br,-7.192773300000001,-48.20482699999999,3407357,south america,brazil
+ilheus,br,-14.7935051,-39.0463797,3461408,south america,brazil
+vila velha,br,-20.3477821,-40.2949528,3445026,south america,brazil
+buriti bravo,br,-5.8372594,-43.8302476,3404722,south america,brazil
+mirador,br,-6.4711041,-44.92533539999999,3394813,south america,brazil
+alta floresta,br,-9.8672231,-56.0870033,6323793,south america,brazil
+sao felix do xingu,br,-7.0179497,-52.3613378,3388847,south america,brazil
+cidreira,br,-30.1769388,-50.2089142,3466165,south america,brazil
+coxim,br,-18.5029929,-54.7492312,3465228,south america,brazil
+macau,br,-5.1129194,-36.6337798,3395998,south america,brazil
+aquiraz,br,-3.9063032,-38.3874882,3407407,south america,brazil
+manicore,br,-6.511245499999999,-60.9540073,3663503,south america,brazil
+barra do bugres,br,-15.0705872,-57.1882847,3470718,south america,brazil
+marica,br,-22.9160994,-42.819192,3457708,south america,brazil
+touros,br,-5.1961669,-35.4635381,3386213,south america,brazil
+sao joao da barra,br,-21.6368446,-41.0484428,3448903,south america,brazil
+cabedelo,br,-7.0402624,-34.8430098,3404558,south america,brazil
+camocim,br,-2.9008418,-40.84209999999999,3403687,south america,brazil
+sacramento,br,-19.8655709,-47.4401807,3450759,south america,brazil
+sena madureira,br,-9.079255300000002,-68.6720528,3662155,south america,brazil
+paracuru,br,-3.4142906,-39.0303806,3393115,south america,brazil
+sao jose da coroa grande,br,-8.8943011,-35.1502449,3388456,south america,brazil
+maragogi,br,-9.010362599999999,-35.2208449,3395458,south america,brazil
+francisco beltrao,br,-26.0779448,-53.05199,3462996,south america,brazil
+maraa,br,-1.8508396,-65.59134639999999,3663475,south america,brazil
+anastacio,br,-20.4827446,-55.8108596,3472284,south america,brazil
+jutai,br,-4.4008685,-68.52471489999999,3663693,south america,brazil
+caravelas,br,-17.7335834,-39.2652564,3466980,south america,brazil
+carutapera,br,-1.2046036,-46.0219181,3402648,south america,brazil
+miranda,br,39.5285397,-87.1119046,3457113,south america,brazil
+santa ines,br,-3.6644286,-45.3839708,3389609,south america,brazil
+imbituba,br,-28.227627,-48.6691286,3461370,south america,brazil
+manoel urbano,br,-9.0386907,-69.57379120000002,3663495,south america,brazil
+laguna,br,-28.4876062,-48.8397403,3459094,south america,brazil
+correia pinto,br,-27.5854616,-50.36421139999999,3465409,south america,brazil
+hobart,au,-42.8821377,147.3271949,2163355,oceania,australia
+mount gambier,au,-37.8284212,140.7803529,7839440,oceania,australia
+batemans bay,au,-35.7143871,150.1794707,2176639,oceania,australia
+albany,au,-35.0275298,117.883959,7839657,oceania,australia
+busselton,au,-33.6554927,115.3500188,7839477,oceania,australia
+katherine,au,-14.4521139,132.2715145,7839404,oceania,australia
+nelson bay,au,-32.715,152.151111,2155562,oceania,australia
+port macquarie,au,-31.433333,152.9,2152659,oceania,australia
+esperance,au,-33.8608027,121.8896205,2071860,oceania,australia
+portland,au,-38.360895,141.6041155,2152667,oceania,australia
+mackay,au,-21.1424956,149.1821469,7839593,oceania,australia
+port lincoln,au,-34.7239963,135.8611498,7839452,oceania,australia
+sydney,au,-33.8688197,151.2092955,2147714,oceania,australia
+roebourne,au,-20.7689815,117.1430197,7839634,oceania,australia
+alice springs,au,-23.698042,133.8807471,7839681,oceania,australia
+new norfolk,au,-42.7828332,147.0593848,2155415,oceania,australia
+nhulunbuy,au,-12.1825,136.781944,2064735,oceania,australia
+northam,au,-31.6525301,116.6654836,7839624,oceania,australia
+flinders,au,-38.474,145.022,2166453,oceania,australia
+carnarvon,au,-24.884,113.661,2074865,oceania,australia
+roma,au,-26.5694477,148.7837619,2151187,oceania,australia
+ayr,au,-19.5685154,147.4063861,2177413,oceania,australia
+griffith,au,-34.2800883,146.0455313,7839723,oceania,australia
+palmerston,au,-12.4784614,130.9851852,7839407,oceania,australia
+launceston,au,-41.43322149999999,147.1440875,7839678,oceania,australia
+stawell,au,-37.0575657,142.7753712,2148431,oceania,australia
+broome,au,-17.9614336,122.235852,7839347,oceania,australia
+port hedland,au,-20.3106621,118.5878223,7839630,oceania,australia
+kununurra,au,-15.7785409,128.7416854,2068110,oceania,australia
+karratha,au,-20.73535,116.8458043,6620339,oceania,australia
+biloela,au,-24.3976694,150.5164324,2175819,oceania,australia
+mount isa,au,-20.7255748,139.4927085,2065594,oceania,australia
+lakes entrance,au,-37.8511185,147.995821,2160735,oceania,australia
+emerald,au,-23.527291,148.164573,2167425,oceania,australia
+mandurah,au,-32.5361038,115.7424077,7839601,oceania,australia
+yulara,au,-25.2334936,130.9848698,6355222,oceania,australia
+geraldton,au,-28.7773715,114.6149715,2070998,oceania,australia
+whitehorse,ca,60.7211871,-135.0568448,6180550,north america,canada
+tuktoyaktuk,ca,69.445358,-133.034181,6170031,north america,canada
+norman wells,ca,65.28149379999999,-126.8286524,6089245,north america,canada
+thompson,ca,55.7449251,-97.8508715,6165406,north america,canada
+eganville,ca,45.539935,-77.1010788,5947035,north america,canada
+clyde river,ca,70.47636500000002,-68.60126509999999,5924351,north america,canada
+port hardy,ca,50.7123867,-127.460393,6111862,north america,canada
+les escoumins,ca,48.34776600000001,-69.40573499999999,6955478,north america,canada
+toronto,ca,43.653226,-79.3831843,6167865,north america,canada
+carman,ca,49.5085651,-98.0016988,5917275,north america,canada
+port hawkesbury,ca,45.6276473,-61.3585543,6111867,north america,canada
+yellowknife,ca,62.4539717,-114.3717887,6185377,north america,canada
+fort nelson,ca,58.8050174,-122.697236,5955902,north america,canada
+la ronge,ca,55.10823,-105.285989,6050066,north america,canada
+torbay,ca,47.6580777,-52.7355238,6167817,north america,canada
+malartic,ca,48.136619,-78.127087,6064704,north america,canada
+pangnirtung,ca,66.1465578,-65.7012182,6096551,north america,canada
+iqaluit,ca,63.74669300000001,-68.5169669,5983720,north america,canada
+kindersley,ca,51.4675266,-109.1546825,5992154,north america,canada
+mackenzie,ca,55.338446,-123.0948068,6063191,north america,canada
+senneterre,ca,48.390597,-77.2411674,6144197,north america,canada
+bonavista,ca,48.6533449,-53.11182489999999,5905393,north america,canada
+aklavik,ca,68.219916,-135.0077881,5882953,north america,canada
+sioux lookout,ca,50.0978321,-91.922038,6148373,north america,canada
+burns lake,ca,54.2334148,-125.763613,5911745,north america,canada
+oxbow,ca,49.2272232,-102.1695336,6095751,north america,canada
+steinbach,ca,49.5285279,-96.691092,6156102,north america,canada
+saint-ambroise,ca,48.5549971,-71.32455999999999,6137384,north america,canada
+ucluelet,ca,48.9415997,-125.5463446,6171633,north america,canada
+liverpool,ca,44.0329772,-64.7176783,6057856,north america,canada
+inverness,ca,46.2308276,-61.3043828,5983628,north america,canada
+halifax,ca,44.64876350000001,-63.5752387,6324729,north america,canada
+hay river,ca,60.816218,-115.7853652,5972762,north america,canada
+vanderhoof,ca,54.01397979999999,-124.0129801,6173361,north america,canada
+valleyview,ca,55.06916,-117.281106,6173220,north america,canada
+punta arenas,cl,-53.1638329,-70.9170683,3874787,south america,chile
+antofagasta,cl,-23.6509279,-70.39750219999999,3899539,south america,chile
+castro,cl,-42.4801402,-73.7624137,3896218,south america,chile
+tocopilla,cl,-22.0857976,-70.1930064,3869716,south america,chile
+ancud,cl,-41.8675003,-73.8276965,3899695,south america,chile
+coihaique,cl,-45.5712254,-72.068265,3894426,south america,chile
+lebu,cl,-37.6097143,-73.6483294,3883457,south america,chile
+calama,cl,-22.4543923,-68.9293819,3897347,south america,chile
+coquimbo,cl,-29.9590009,-71.3389183,3893629,south america,chile
+constitucion,cl,-35.33330000000001,-72.41669999999999,3893726,south america,chile
+taltal,cl,-25.283333,-69.766667,3870243,south america,chile
+quatre cocos,mu,-20.201639,57.7743197,1106643,africa,mauritius
+grand gaube,mu,-20.014212,57.6694082,934479,africa,mauritius
+mahebourg,mu,-20.4059505,57.7034222,934322,africa,mauritius
+bambous virieux,mu,-20.3438619,57.7636821,1106677,africa,mauritius
+souillac,mu,-20.5180739,57.52638589999999,933995,africa,mauritius
+boyolangu,id,-8.1195357,111.8942801,1648082,asia,indonesia
+balikpapan,id,-1.2379274,116.8528526,1650527,asia,indonesia
+sorong,id,-0.8761629000000001,131.255828,1626542,asia,indonesia
+bengkulu,id,-3.792845099999999,102.2607641,1649150,asia,indonesia
+manokwari,id,-0.8614531,134.0620421,1636308,asia,indonesia
+bitung,id,1.4403744,125.1216524,1648636,asia,indonesia
+meulaboh,id,4.1436951,96.12811459999999,1214488,asia,indonesia
+labuhan,id,-6.0924495,105.9964291,8079926,asia,indonesia
+sungaipenuh,id,-2.0634335,101.3947481,1625929,asia,indonesia
+bambanglipuro,id,-7.9481229,110.3130087,1650434,asia,indonesia
+kroya,id,-7.6331351,109.2474701,1639337,asia,indonesia
+tarakan,id,3.3273599,117.5785049,1624725,asia,indonesia
+padang,id,-0.9470831999999999,100.417181,1633419,asia,indonesia
+mlonggo,id,-6.5278743,110.7045279,1635164,asia,indonesia
+rantepao,id,-2.9703732,119.8757349,1629974,asia,indonesia
+bontang,id,0.120863,117.4800445,1648186,asia,indonesia
+sabang,id,5.8926053,95.3237608,1214026,asia,indonesia
+kanigoro,id,-8.1186669,112.2026347,1641497,asia,indonesia
+puerto ayora,ec,-0.7432918,-90.3156893,3652764,south america,ecuador
+san cristobal,ec,-0.8674715,-89.436391,3651949,south america,ecuador
+puerto baquerizo moreno,ec,-0.9031235,-89.61089419999999,3652758,south america,ecuador
+manta,ec,-0.9676533,-80.7089101,3654410,south america,ecuador
+hasaki,jp,35.7453776,140.8272903,2112802,asia,japan
+kushiro,jp,42.9848542,144.3813556,2129376,asia,japan
+katsuura,jp,35.152283,140.3209324,2112309,asia,japan
+shimoda,jp,34.6795334,138.945316,1852357,asia,japan
+naze,jp,28.4405795,129.5419652,1855540,asia,japan
+hirara,jp,24.8051928,125.2789544,1862505,asia,japan
+shingu,jp,33.7241048,135.9924107,1852109,asia,japan
+nishihara,jp,26.2228445,127.7588107,1855342,asia,japan
+tateyama,jp,36.6635222,137.3136968,1850523,asia,japan
+nemuro,jp,43.3300759,145.5827903,2128975,asia,japan
+makubetsu,jp,42.9085896,143.3560966,2129324,asia,japan
+mombetsu,jp,44.3564842,143.3545033,2129163,asia,japan
+itoman,jp,26.1235841,127.6658145,1861280,asia,japan
+sakaiminato,jp,35.5395916,133.2314862,1853174,asia,japan
+miyako,jp,39.6414202,141.9571394,2111884,asia,japan
+svetlogorsk,ru,54.9394562,20.1584706,1490516,asia,russia
+khatanga,ru,71.964027,102.4406129,2022572,asia,russia
+beringovskiy,ru,63.065438,179.355123,2126710,asia,russia
+provideniya,ru,64.43272,-173.238567,4031574,asia,russia
+pevek,ru,69.692947,170.399612,2122090,asia,russia
+batagay-alyta,ru,67.79280899999999,130.4017789,2027042,asia,russia
+tiksi,ru,71.6374819,128.8644717,2015306,asia,russia
+ust-nera,ru,64.5596103,143.2244252,2120048,asia,russia
+ostrovnoy,ru,53.12483229999999,52.1677683,556268,asia,russia
+dikson,ru,73.50489,80.58091689999999,1507390,asia,russia
+deputatskiy,ru,69.30260299999999,139.9583829,2028164,asia,russia
+palana,ru,59.0842105,159.9541642,2122262,asia,russia
+leshukonskoye,ru,64.89734659999999,45.76517339999999,535839,asia,russia
+saskylakh,ru,71.954308,114.1198349,2017155,asia,russia
+severo-kurilsk,ru,50.66808,156.1138803,2121385,asia,russia
+baykit,ru,61.6833669,96.38062029999999,1510689,asia,russia
+cherskiy,ru,68.742677,161.3507839,2126199,asia,russia
+yerbogachen,ru,61.2776586,108.0136671,2012956,asia,russia
+leningradskiy,ru,69.36833299999999,178.416667,2123814,asia,russia
+chokurdakh,ru,70.622169,147.916168,2126123,asia,russia
+nyurba,ru,63.2803099,118.3618985,2018735,asia,russia
+tazovskiy,ru,67.46130400000001,78.70866389999999,1489853,asia,russia
+mayya,ru,61.7340378,130.3168858,2020121,asia,russia
+taseyevo,ru,57.1919803,94.9017113,1490058,asia,russia
+kabansk,ru,56.2168141,95.71981459999999,2023350,asia,russia
+ust-kut,ru,56.7910394,105.7768683,2013923,asia,russia
+anadyr,ru,64.7336613,177.4968265,2127202,asia,russia
+nyagan,ru,62.12927699999999,65.3745138,1496476,asia,russia
+sharlyk,ru,54.9013396,55.1421498,495670,asia,russia
+strelka,ru,55.74255900000001,37.609245,487246,asia,russia
+yar-sale,ru,66.86258699999999,70.854469,1486321,asia,russia
+togur,ru,58.3615767,82.8403008,1489499,asia,russia
+zimovniki,ru,47.1284352,42.4543661,462522,asia,russia
+zhigansk,ru,66.75206399999999,123.3941119,2012530,asia,russia
+uk,ru,55.0764307,98.8426483,1488616,asia,russia
+toora-khem,ru,52.474609,96.110054,1489401,asia,russia
+kysyl-syr,ru,63.89784700000001,122.762485,2021017,asia,russia
+arman,ru,59.6733284,150.1414858,2127060,asia,russia
+chumikan,ru,54.708952,135.322998,2025256,asia,russia
+palatka,ru,60.1063658,150.9490001,2122256,asia,russia
+neryungri,ru,56.6614269,124.7058164,2019309,asia,russia
+belyy yar,ru,58.4425416,85.0680312,1510370,asia,russia
+znamenskoye,ru,43.6753017,45.1243099,462305,asia,russia
+svetlaya,ru,46.53935999999999,138.325943,2015852,asia,russia
+kungurtug,ru,50.595182,97.519958,1501377,asia,russia
+srednekolymsk,ru,67.43730699999999,153.728674,2121025,asia,russia
+amga,ru,60.8963675,131.973712,2027786,asia,russia
+tulun,ru,54.56990769999999,100.5817565,2014927,asia,russia
+kaspiyskiy,ru,45.394801,47.3628352,551846,asia,russia
+rostovka,ru,57.195623,39.4131527,1493523,asia,russia
+romny,ru,50.725848,129.295334,2017409,asia,russia
+vanavara,ru,60.3394104,102.2965426,2013727,asia,russia
+namtsy,ru,62.7480372,129.647742,2019488,asia,russia
+batagay,ru,67.66251299999999,134.65435,2027044,asia,russia
+teya,ru,60.377472,92.651665,1489656,asia,russia
+salekhard,ru,66.550073,66.6028111,1493197,asia,russia
+komsomolskiy,ru,69.166667,172.7,545728,asia,russia
+inta,ru,66.0395096,60.1307414,1505579,asia,russia
+lavrentiya,ru,65.58354899999999,-171.0389249,4031637,asia,russia
+oktyabrskoye,ru,62.46270680000001,66.0407137,515805,asia,russia
+beya,ru,53.0475258,90.944621,1510131,asia,russia
+ovsyanka,ru,55.9562612,92.57961619999999,1495797,asia,russia
+talnakh,ru,69.5,88.39999999999999,1490256,asia,russia
+novoagansk,ru,61.9431337,76.6623635,1497210,asia,russia
+turinsk,ru,58.041296,63.6850141,1488933,asia,russia
+aksarka,ru,66.5583101,67.7877623,1512019,asia,russia
+dolzhanskaya,ru,46.6446145,37.8054336,565456,asia,russia
+agirish,ru,61.9279199,63.001172,1512101,asia,russia
+izhma,ru,65.00700650000002,53.9197413,554830,asia,russia
+amazar,ru,53.859583,120.861637,2027806,asia,russia
+kamyshin,ru,50.0946344,45.3939821,553287,asia,russia
+bilibino,ru,68.05963899999999,166.443893,2126682,asia,russia
+strezhevoy,ru,60.724111,77.5813751,1490796,asia,russia
+petropavlovsk-kamchatskiy,ru,53.0409109,158.677726,2122104,asia,russia
+tura,ru,64.2738514,100.2187928,2014833,asia,russia
+revda,ru,56.81884969999999,59.9036397,502010,asia,russia
+krasnozerskoye,ru,54.002725,79.253276,1501988,asia,russia
+lukovetskiy,ru,64.2932526,41.9230918,533418,asia,russia
+severo-yeniseyskiy,ru,60.37352800000001,93.0464481,1492566,asia,russia
+igrim,ru,63.19083319999999,64.4183685,1505965,asia,russia
+adrar,dz,27.9716342,-0.1869644,2508813,africa,algeria
+tigzirt,dz,36.8905856,4.1267837,2476660,africa,algeria
+vaini,to,-21.1935,-175.1751534,4032243,oceania,tonga
+neiafu,to,-18.6476779,-173.9836854,4032420,oceania,tonga
+kapaa,us,22.0881391,-159.3379818,5848280,north america,united states
+kuna,us,43.4918307,-116.4201223,5597955,north america,united states
+stockbridge,us,33.5442781,-84.23380929999999,4224681,north america,united states
+lompoc,us,34.6391501,-120.4579409,5367788,north america,united states
+nome,us,64.5011111,-165.4063889,5870133,north america,united states
+barrow,us,71.29055559999999,-156.788611,5880054,north america,united states
+bethel,us,41.3712283,-73.41396209999999,4182260,north america,united states
+fortuna,us,40.5981867,-124.1572756,5563839,north america,united states
+potsdam,us,44.6697805,-74.9813084,5132103,north america,united states
+kodiak,us,57.79000000000001,-152.4072221,5866583,north america,united states
+gloversville,us,43.0528506,-74.3437467,5118743,north america,united states
+great falls,us,47.5052849,-111.3007715,5655240,north america,united states
+pacific grove,us,36.6177374,-121.9166215,5380437,north america,united states
+east wenatchee bench,us,47.425919,-120.280071,5793272,north america,united states
+newport,us,41.4901024,-71.3128285,4302529,north america,united states
+chickasha,us,35.052565,-97.93643259999999,4533029,north america,united states
+fairbanks,us,64.8377778,-147.7163888,5861897,north america,united states
+fort dodge,us,42.4974694,-94.16801579999999,4857486,north america,united states
+college,us,32.7768726,-117.1549006,5859699,north america,united states
+eau claire,us,44.811349,-91.4984941,5251436,north america,united states
+kahului,us,20.8893351,-156.4729469,5847411,north america,united states
+new ulm,us,44.3144394,-94.45930179999999,5039173,north america,united states
+sitka,us,57.0530556,-135.33,5557293,north america,united states
+hilo,us,19.7241106,-155.0868193,5855927,north america,united states
+kenai,us,60.55444439999999,-151.2583333,5866063,north america,united states
+rockport,us,42.6556505,-70.620363,4263848,north america,united states
+athens,us,33.9519347,-83.357567,4505542,north america,united states
+price,us,39.0102097,-94.84402879999999,5545269,north america,united states
+jesup,us,31.6074365,-81.8853924,4202810,north america,united states
+jackson,us,32.2987573,-90.1848103,4241691,north america,united states
+manassas,us,38.7509488,-77.47526669999999,4771401,north america,united states
+trinidad,us,37.1694632,-104.5005407,5442007,north america,united states
+del rio,us,29.3708857,-100.8958674,5520076,north america,united states
+fountain,us,38.682219,-104.7008056,5422191,north america,united states
+susanville,us,40.4162842,-120.6530063,5572400,north america,united states
+great bend,us,38.3644567,-98.7648073,4272340,north america,united states
+danville,us,36.5859718,-79.39502279999999,4889426,north america,united states
+hilton head island,us,32.216316,-80.752608,4581833,north america,united states
+rock springs,us,41.58746439999999,-109.2029043,5836898,north america,united states
+ardmore,us,34.1742611,-97.14362539999999,4529469,north america,united states
+sterling,us,39.0066993,-77.4291298,4843650,north america,united states
+columbus,us,39.9611755,-82.99879419999999,4256038,north america,united states
+polson,us,47.69320039999999,-114.1631275,5671996,north america,united states
+port lavaca,us,28.6149968,-96.6260892,4720067,north america,united states
+kearney,us,40.69933030000001,-99.0816784,5071348,north america,united states
+juneau,us,58.3019444,-134.4197221,5258190,north america,united states
+traverse city,us,44.7630567,-85.62063169999999,5012495,north america,united states
+marinette,us,45.0999849,-87.6306623,5261852,north america,united states
+marquette,us,46.5436199,-87.3953713,5000947,north america,united states
+georgetown,us,38.9097057,-77.06535650000001,4292686,north america,united states
+ruidoso,us,33.3672525,-105.6588485,5488598,north america,united states
+pinellas park,us,27.8428025,-82.6995443,4168630,north america,united states
+homer,us,59.64250000000001,-151.5483333,4273134,north america,united states
+bellingham,us,48.7519112,-122.4786854,5786899,north america,united states
+port alfred,za,-33.5864065,26.8851448,964432,africa,south africa
+cape town,za,-33.9248685,18.4240553,3369157,africa,south africa
+hermanus,za,-34.4092004,19.2504436,3366880,africa,south africa
+margate,za,-30.8458684,30.37237409999999,978895,africa,south africa
+knysna,za,-34.0350856,23.0464693,988698,africa,south africa
+saldanha,za,-33.0276981,17.9176312,3361934,africa,south africa
+east london,za,-33.0291582,27.8545867,1006984,africa,south africa
+bredasdorp,za,-34.5385222,20.0568771,1015776,africa,south africa
+port elizabeth,za,-33.9608369,25.6022423,964420,africa,south africa
+durban,za,-29.85868039999999,31.0218404,1007311,africa,south africa
+richards bay,za,-28.7807276,32.0382856,962367,africa,south africa
+kruisfontein,za,-33.9843356,24.732102,986717,africa,south africa
+vryburg,za,-26.9584048,24.7298615,942511,africa,south africa
+warrenton,za,-28.1301523,24.8745512,941931,africa,south africa
+taoudenni,ml,22.6764132,-3.9789143,2450173,africa,mali
+araouane,ml,18.904265,-3.5275161,2460954,africa,mali
+sokolo,ml,14.7384717,-6.118242899999999,2450849,africa,mali
+bandiagara,ml,14.3489479,-3.609117,2460489,africa,mali
+mahibadhoo,mv,3.756783299999999,72.9689398,1337605,asia,maldives
+hithadhoo,mv,-0.6060574,73.0892245,1282256,asia,maldives
+axim,gh,4.8665091,-2.240888,2303611,africa,ghana
+takoradi,gh,4.9015794,-1.7830973,2294915,africa,ghana
+tamale,gh,9.403422599999999,-0.8424159999999999,2294877,africa,ghana
+asnaes,dk,55.81391199999999,11.501941,2624521,europe,denmark
+boundiali,ci,9.5183617,-6.482317999999999,2290836,africa,ivory coast
+tabou,ci,4.427919699999999,-7.357057599999999,2281120,africa,ivory coast
+ferkessedougou,ci,9.584201199999999,-5.1953554,2289049,africa,ivory coast
+bondoukou,ci,8.0478831,-2.807864,2291136,africa,ivory coast
+avarua,ck,-21.2129007,-159.7823059,4035715,oceania,cook islands
+kavieng,pg,-2.5781167,150.8086082,2094342,asia,papua new guinea
+kimbe,pg,-5.5511652,150.1387297,2093967,asia,papua new guinea
+namatanai,pg,-3.6528325,152.3917226,2090021,asia,papua new guinea
+lorengau,pg,-2.0349854,147.279039,2092164,asia,papua new guinea
+samarai,pg,-10.6120235,150.6640758,2132606,asia,papua new guinea
+daru,pg,-9.078195899999999,143.2099707,2098329,asia,papua new guinea
+aitape,pg,-3.1538273,142.3639991,2101169,asia,papua new guinea
+butaritari,ki,3.1166667,172.8,7521588,oceania,kiribati
+morales,gt,15.4711755,-88.8431038,3592362,north america,guatemala
+san jose,gt,13.930382,-90.8341624,3590069,north america,guatemala
+skjervoy,no,70.033975,20.9736568,777682,europe,norway
+vardo,no,70.3705739,31.1093684,777019,europe,norway
+vigrestad,no,58.5710321,5.6818233,3131824,europe,norway
+storebo,no,60.0929455,5.2317941,3136618,europe,norway
+sorland,no,67.6635735,12.6926738,3137469,europe,norway
+andenes,no,69.31607989999999,16.1202285,3163146,europe,norway
+mehamn,no,71.0357069,27.8489412,778707,europe,norway
+batsfjord,no,70.6304931,29.7118032,780717,europe,norway
+straumen,no,67.3480216,15.5974715,777347,europe,norway
+berlevag,no,70.7198284,29.0300862,780687,europe,norway
+sayyan,ye,15.1733158,44.3307515,70979,asia,yemen
+lahij,ye,13.0578415,44.8832833,73560,asia,yemen
+ushuaia,ar,-54.8019121,-68.3029511,3833367,south america,argentina
+mar del plata,ar,-38.0054771,-57.5426106,3430863,south america,argentina
+comodoro rivadavia,ar,-45.8656149,-67.4822429,3860443,south america,argentina
+veinticinco de mayo,ar,-27.3773233,-54.7454261,3427537,south america,argentina
+rivadavia,ar,-45.8656149,-67.4822429,3838759,south america,argentina
+viedma,ar,-40.8119087,-62.9962044,3832899,south america,argentina
+necochea,ar,-38.5544968,-58.73960879999999,3430443,south america,argentina
+santa rosa,ar,-36.620922,-64.2912369,3428182,south america,argentina
+rio gallegos,ar,-51.6230485,-69.2168291,3838859,south america,argentina
+abapo,bo,-18.90379,-63.3977316,3924668,south america,bolivia
+charagua,bo,-19.7809492,-63.19732329999999,3921141,south america,bolivia
+san carlos,bo,-17.4047609,-63.7311505,3905775,south america,bolivia
+chimore,bo,-16.9961529,-65.15555189999999,3920736,south america,bolivia
+la paz,bo,-16.489689,-68.11929359999999,3911925,south america,bolivia
+solwezi,zm,-12.1668712,26.3839765,897045,africa,zambia
+livingstone,zm,-17.8519791,25.8285153,910111,africa,zambia
+mpongwe,zm,-13.5119941,28.1561533,905789,africa,zambia
+mwinilunga,zm,-11.7401439,24.4232735,902620,africa,zambia
+mpika,zm,-11.8280231,31.4513314,905846,africa,zambia
+menemen,tr,38.6266439,27.0558707,304612,asia,turkey
+samsun,tr,41.2797031,36.3360667,740263,asia,turkey
+mardin,tr,37.312903,40.733951,304794,asia,turkey
+rocha,uy,-34.4809769,-54.3307438,3440777,south america,uruguay
+chuy,uy,-33.692754,-53.4552817,3443061,south america,uruguay
+vestmannaeyjar,is,63.437679,-20.267321,3412093,europe,iceland
+husavik,is,66.0449706,-17.3383442,2629833,europe,iceland
+hofn,is,64.24970259999999,-15.2020077,2630299,europe,iceland
+grindavik,is,63.8441808,-22.4383818,3416888,europe,iceland
+vila franca do campo,pt,37.7157269,-25.4345063,8010690,europe,portugal
+ribeira grande,pt,37.8210369,-25.5148137,8010689,europe,portugal
+lagoa,pt,37.1356176,-8.4514359,8010517,europe,portugal
+ponta do sol,pt,32.6854883,-17.0864266,2264557,europe,portugal
+eixo,pt,40.6256059,-8.5666077,8010748,europe,portugal
+rabo de peixe,pt,37.8077543,-25.5829107,8014682,europe,portugal
+praia da vitoria,pt,38.7339162,-27.0646976,3372760,europe,portugal
+maua,ke,0.2325548,37.9413748,187231,africa,kenya
+makueni,ke,-1.7864953,37.63110710000001,188080,africa,kenya
+lamu,ke,-2.2695575,40.9006408,189741,africa,kenya
+lima,pe,-12.0463731,-77.042754,3936456,south america,peru
+pangoa,pe,-11.4262926,-74.4904427,3933104,south america,peru
+pisco,pe,-13.7134562,-76.1841701,3932145,south america,peru
+tingo maria,pe,-9.295763599999999,-75.99785899999999,3691348,south america,peru
+uchiza,pe,-8.4592507,-76.46199109999999,3691094,south america,peru
+contamana,pe,-7.3472841,-75.00561859999999,3697838,south america,peru
+paita,pe,-5.0938488,-81.0962172,3694112,south america,peru
+iquitos,pe,-3.7436735,-73.25163260000001,3696183,south america,peru
+santiago de cao,pe,-7.9551186,-79.23947609999999,3692073,south america,peru
+luderitz,na,-26.6420382,15.1639082,3355672,africa,namibia
+opuwo,na,-18.0580139,13.8361177,3354077,africa,namibia
+okakarara,na,-20.5907049,17.4588131,3354876,africa,namibia
+puerto escondido,mx,15.8719795,-97.0767365,3520994,north america,mexico
+lazaro cardenas,mx,17.9567646,-102.1943485,4026082,north america,mexico
+todos santos,mx,23.4463619,-110.2265101,3981432,north america,mexico
+hidalgotitlan,mx,17.7696749,-94.6463236,3527113,north america,mexico
+cabo san lucas,mx,22.8905327,-109.9167371,3985710,north america,mexico
+tecoanapa,mx,16.987876,-99.25969049999999,3516171,north america,mexico
+maravatio,mx,19.894471,-100.4449439,3996626,north america,mexico
+agua verde,mx,25.4832164,-111.1334484,4019219,north america,mexico
+ixtapa,mx,17.6625661,-101.58734,4004293,north america,mexico
+el sauzal,mx,31.896313,-116.6996104,4007503,north america,mexico
+san patricio,mx,19.2251985,-104.703973,3985168,north america,mexico
+coahuayana,mx,18.7372222,-103.6688888,4025994,north america,mexico
+isla mujeres,mx,21.2321799,-86.73409339999999,3526756,north america,mexico
+jimenez,mx,29.0693962,-100.6771871,4003938,north america,mexico
+copala,mx,23.3963895,-105.936207,3530264,north america,mexico
+tlancualpican,mx,18.4290957,-98.70084659999999,3818940,north america,mexico
+guerrero negro,mx,27.9591758,-114.056646,4021858,north america,mexico
+huautla,mx,18.130831,-96.8436739,3526989,north america,mexico
+brae,gb,60.39685199999999,-1.3541129,2654970,europe,united kingdom
+coleraine,gb,55.1325802,-6.664610300000001,2652586,europe,united kingdom
+anito,ph,14.535295,120.996124,1730622,asia,philippines
+san isidro,ph,15.2965633,120.907304,1689635,asia,philippines
+san policarpo,ph,12.2046953,125.4781649,1688696,asia,philippines
+pagudpud,ph,18.5874677,120.8220827,1696482,asia,philippines
+lookan,ph,5.0736545,120.2527152,1705597,asia,philippines
+aloleng,ph,16.1160674,119.7802409,1731298,asia,philippines
+puerto princesa,ph,9.967216299999999,118.78551,1692685,asia,philippines
+bandarbeyla,so,9.498579999999999,50.8105261,64814,africa,somalia
+hobyo,so,5.3515922,48.5249751,57000,africa,somalia
+dalianwan,cn,39.035562,121.70909,1921372,asia,china
+pingliang,cn,35.543061,106.665131,1798760,asia,china
+xinqing,cn,48.29045499999999,129.533599,2033667,asia,china
+jinchang,cn,38.520089,102.188043,1805733,asia,china
+aksu,cn,41.167548,80.263387,1529660,asia,china
+hohhot,cn,40.842356,111.749995,2036892,asia,china
+baiyin,cn,36.545015,104.138586,1817240,asia,china
+baoqing,cn,46.326924,132.197243,2038446,asia,china
+hulan,cn,45.88948,126.587709,2036671,asia,china
+huilong,cn,22.932913,112.634841,1806840,asia,china
+changji,cn,44.013183,87.30411199999999,1529569,asia,china
+shache,cn,38.414217,77.245761,1280037,asia,china
+datong,cn,40.076762,113.300129,1813451,asia,china
+korla,cn,41.725891,86.17463300000001,1529376,asia,china
+huangmei,cn,30.070453,115.944218,1807339,asia,china
+xining,cn,36.617134,101.778223,1788852,asia,china
+guangshui,cn,31.616853,113.825889,1809879,asia,china
+bardiyah,ly,31.7579946,25.0792189,80509,africa,libya
+surt,ly,30.1505798,16.912251,2210554,africa,libya
+hun,ly,28.6448398,15.9699878,2216645,africa,libya
+suluq,ly,31.6774341,20.2713072,81604,africa,libya
+sabha,ly,27.0365406,14.4290236,2212775,africa,libya
+waounde,sn,15.2699767,-12.8658649,2247044,africa,senegal
+victoria,sc,-4.619143,55.4513149,241131,africa,seychelles
+darab,ir,28.7559514,54.5546793,137956,asia,iran
+mashhad,ir,36.2604623,59.6167549,124665,asia,iran
+khash,ir,28.2314235,61.19276009999999,1160571,asia,iran
+neyshabur,ir,36.2140865,58.7960915,122285,asia,iran
+bukan,ir,36.51869600000001,46.20943159999999,139889,asia,iran
+quchan,ir,37.1293332,58.47441850000001,119115,asia,iran
+myingyan,mm,21.4662223,95.38871999999999,1307835,asia,burma (myanmar)
+nyaunglebin,mm,17.9585108,96.7199658,1303406,asia,burma (myanmar)
+pathein,mm,16.7753609,94.7381013,1328421,asia,burma (myanmar)
+myitkyina,mm,25.3946143,97.38407289999999,1307741,asia,burma (myanmar)
+lashio,mm,22.9664576,97.7525352,1314759,asia,burma (myanmar)
+ponta do sol,cv,17.2004826,-25.0925624,3374346,africa,cape verde
+santa maria,cv,16.6000812,-22.9103485,3374218,africa,cape verde
+sao filipe,cv,14.8951679,-24.4945636,3374210,africa,cape verde
+port blair,in,11.6233774,92.7264828,1259385,asia,india
+kadayanallur,in,9.0778543,77.34518609999999,1268707,asia,india
+jagannathpur,in,23.3091858,85.3006956,1269592,asia,india
+marhaura,in,25.9701764,84.8763365,1263528,asia,india
+khambhat,in,22.3180817,72.6189845,1267090,asia,india
+kanniyakumari,in,8.0883064,77.5384507,1268008,asia,india
+yarada,in,17.6630996,83.27802779999999,1252783,asia,india
+manavalakurichi,in,8.1471445,77.30228679999999,1263942,asia,india
+sanawad,in,22.1764007,76.06819899999999,1257481,asia,india
+rajpipla,in,21.8715143,73.5030517,1258819,asia,india
+ramapuram,in,13.0317443,80.1816719,1258726,asia,india
+tiruvallur,in,13.1444426,79.8940078,1254331,asia,india
+yanam,in,16.7271912,82.21757749999999,1252795,asia,india
+kishtwar,in,33.3115906,75.76621949999999,1266475,asia,india
+gangtok,in,27.3389356,88.6065035,1271631,asia,india
+ghatanji,in,20.1436894,78.311672,1271343,asia,india
+kavaratti,in,10.5593204,72.63581340000002,1267390,asia,india
+pipili,in,20.1111654,85.8327359,1259592,asia,india
+ramanuj ganj,in,23.8042419,83.6959992,1258731,asia,india
+mangrol,in,21.1171698,70.11581129999999,1263751,asia,india
+derzhavinsk,kz,51.098127,66.3165471,1524606,asia,kazakhstan
+khromtau,kz,50.2577508,58.432675,609404,asia,kazakhstan
+kachiry,kz,53.0695445,76.1038295,1523662,asia,kazakhstan
+shar,kz,49.5850143,81.04785919999999,1519275,asia,kazakhstan
+dori,bf,14.0246473,-0.0233208,2361082,africa,burkina faso
+kaya,bf,13.0910405,-1.0873551,2359608,africa,burkina faso
+namibe,ao,-15.1978317,12.1575544,3347019,africa,angola
+lucapa,ao,-8.4432485,20.7301263,145724,africa,angola
+lubango,ao,-14.9186136,13.5321234,3347762,africa,angola
+chissamba,ao,-12.1639352,17.3242764,3349580,africa,angola
+luau,ao,-10.7072554,22.22946,876177,africa,angola
+benguela,ao,-12.5905158,13.416501,3351663,africa,angola
+klaksvik,fo,62.2271922,-6.5779064,2618795,europe,faeroe islands
+tvoroyri,fo,61.5557494,-6.811948,2611060,europe,faeroe islands
+argir,fo,61.9949259,-6.784859099999999,2624653,europe,faeroe islands
+kibre mengist,et,5.8837714,38.9824579,333103,africa,ethiopia
+jijiga,et,9.356783799999999,42.7955185,333795,africa,ethiopia
+mizan teferi,et,6.9936468,35.5821994,330534,africa,ethiopia
+jinka,et,5.7806339,36.5715924,333750,africa,ethiopia
+gambela,et,8.2471899,34.5915966,337405,africa,ethiopia
+alofi,nu,-19.0553711,-169.9178709,4036284,oceania,niue
+salalah,om,17.0506675,54.1065864,286621,asia,oman
+nizwa,om,22.9171031,57.536292,286987,asia,oman
+sur,om,22.5652759,59.5066376,286245,asia,oman
+nador,ma,35.1686165,-2.9275836,2541472,africa,morocco
+kenitra,ma,34.2540503,-6.5890166,2544568,africa,morocco
+kutum,sd,14.2025174,24.6638251,371745,africa,sudan
+carballo,es,43.2128129,-8.6915927,6357289,europe,spain
+los llanos de aridane,es,28.6183515,-17.8998566,2514651,europe,spain
+adra,es,36.775367,-3.0476046,2522430,europe,spain
+muros,es,42.8073676,-9.0460525,6357322,europe,spain
+santa lucia,es,27.9101389,-15.5401365,2511150,europe,spain
+arrecife,es,28.9651694,-13.5550363,6360174,europe,spain
+puerto del rosario,es,28.500821,-13.8628367,6360187,europe,spain
+puerto narino,co,-3.7702,-70.38306,3671387,south america,colombia
+villanueva,co,10.603721,-72.98193599999999,3665934,south america,colombia
+inirida,co,3.868297,-67.923917,3671450,south america,colombia
+mitu,co,1.2521739,-70.23361799999999,3674676,south america,colombia
+ambilobe,mg,-13.2026069,49.0514094,1082243,africa,madagascar
+vangaindrano,mg,-23.3505295,47.5914122,1054329,africa,madagascar
+beloha,mg,-25.1694494,45.0606557,1067565,africa,madagascar
+mahajanga,mg,-15.6921494,46.3336857,1062663,africa,madagascar
+anzio,it,41.4495955,12.6197253,6542092,europe,italy
+ugento,it,39.92711329999999,18.1614562,2522833,europe,italy
+steinfurt,de,52.1445658,7.333463600000001,2828105,europe,germany
+bilma,ne,18.6929789,12.9176518,2446796,africa,niger
+diffa,ne,13.3132472,12.6158803,2445702,africa,niger
+tanout,ne,14.972892,8.8831506,2439155,africa,niger
+arlit,ne,18.7390029,7.3894772,2447513,africa,niger
+mongoumba,cf,3.6378484,18.5908437,2384377,africa,central african republic
+ouadda,cf,8.070618999999999,22.3948737,236901,africa,central african republic
+zemio,cf,5.0308931,25.1325897,235826,africa,central african republic
+tchibanga,ga,-2.9278774,10.997658,2396253,africa,gabon
+mayumba,ga,-3.4426092,10.6562606,2399001,africa,gabon
+omboue,ga,-1.575187,9.2591571,2396853,africa,gabon
+hambantota,lk,6.1428829,81.12123079999999,1244926,asia,sri lanka
+kalmunai,lk,7.414383099999999,81.8306334,1242110,asia,sri lanka
+beruwala,lk,6.473837899999999,79.99199949999999,1249931,asia,sri lanka
+paidha,ug,2.4183904,30.9847642,226853,africa,uganda
+bokoro,td,12.3783745,17.0568962,2434985,africa,chad
+am timan,td,11.0445821,20.2862003,245338,africa,chad
+mao,td,14.1310247,15.3189726,2428394,africa,chad
+biltine,td,14.5257818,20.9238397,244878,africa,chad
+hazorasp,uz,41.2996483,61.08843890000001,1513957,asia,uzbekistan
+bathsheba,bb,13.2101681,-59.5253545,3374083,north america,barbados
+oistins,bb,13.0705904,-59.54695439999999,3373652,north america,barbados
+si satchanalai,th,17.5731838,99.6786894,1150624,asia,thailand
+yaring,th,6.828056999999999,101.3885001,1604771,asia,thailand
+mae hong son,th,19.3020296,97.96543679999999,1152222,asia,thailand
+ko samui,th,9.5120168,100.0135929,1154689,asia,thailand
+shibganj,bd,25.0005682,89.3203233,1185108,asia,bangladesh
+najran,sa,17.5656036,44.2289441,103630,asia,saudi arabia
+umm lajj,sa,25.026409,37.27076,100926,asia,saudi arabia
+quelimane,mz,-17.8502636,36.9218584,1028434,africa,mozambique
+beira,mz,-19.8315949,34.8370183,1052373,africa,mozambique
+pemba,mz,-12.9732026,40.5178014,1028918,africa,mozambique
+inhambane,mz,-23.8662153,35.3826756,1045114,africa,mozambique
+xai-xai,mz,-25.060476,33.6958809,1024552,africa,mozambique
+gazanjyk,tm,39.2470722,55.51918569999999,161974,asia,turkmenistan
+baherden,tm,38.4361809,57.42878990000001,162158,asia,turkmenistan
+monrovia,lr,6.3156068,-10.8073698,2274895,africa,liberia
+buchanan,lr,5.887246999999999,-10.0303723,2278158,africa,liberia
+harper,lr,4.3759676,-7.700941599999999,2276492,africa,liberia
+djougou,bj,9.7080916,1.6663523,2394560,africa,benin
+buala,sb,-8.1662459,159.6189829,2109528,oceania,solomon islands
+kirakira,sb,-10.4487148,161.8964131,2178753,oceania,solomon islands
+auki,sb,-8.7678593,160.6960306,2109701,oceania,solomon islands
+honiara,sb,-9.4456381,159.9728999,2108502,oceania,solomon islands
+mandalgovi,mn,45.7631589,106.2650297,2030065,asia,mongolia
+erdenet,mn,49.054082,104.0716533,2031405,asia,mongolia
+ulaangom,mn,49.9903359,92.0557583,1515029,asia,mongolia
+luganville,vu,-15.5064326,167.2002745,2136150,oceania,vanuatu
+isangel,vu,-19.54172,169.2803499,2136825,oceania,vanuatu
+sharjah,ae,25.3462553,55.4209317,292672,asia,united arab emirates
+sibu,my,2.287284,111.830535,1735902,asia,malaysia
+kinsale,ie,51.7058853,-8.5222327,2963155,europe,ireland
+skibbereen,ie,51.55592439999999,-9.262130299999999,2961459,europe,ireland
+pokhara,np,28.237987,83.99558789999999,1282898,asia,nepal
+colon,pa,9.359302,-79.89986080000001,3712076,north america,panama
+nouadhibou,mr,20.9425179,-17.0362272,2377457,africa,mauritania
+atar,mr,20.5072923,-13.052978,2381334,africa,mauritania
+cumana,ve,10.431916,-64.18331599999999,3644768,south america,venezuela
+caraballeda,ve,10.6135398,-66.84988830000002,3646767,south america,venezuela
+rosetta,eg,31.4008095,30.4171887,350203,africa,egypt
+aswan,eg,24.088938,32.8998293,359792,africa,egypt
+buenos aires,cr,9.1672952,-83.3308421,3624593,north america,costa rica
+roura,gf,4.728494,-52.3254212,6690702,south america,french guiana
+sinnamary,gf,5.3746712,-52.9545991,6690707,south america,french guiana
+cayenne,gf,4.92242,-52.3134531,6690689,south america,french guiana
+mana,gf,5.6680095,-53.7789581,6690694,south america,french guiana
+gryfice,pl,53.91666000000001,15.1998891,3098201,europe,poland
+klobuck,pl,50.9009168,18.9367931,3096090,europe,poland
+timra,se,62.4854563,17.3248651,2669047,europe,sweden
+ostersund,se,63.1766832,14.6360681,2685750,europe,sweden
+karlstad,se,59.4021806,13.5114978,2701680,europe,sweden
+owando,cg,-0.4829632,15.8936224,2255542,africa,congo
+mossendjo,cg,-2.9655267,12.7278766,2256895,africa,congo
+novoukrayinka,ua,48.3226457,31.5187617,699078,asia,ukraine
+sutysky,ua,49.0419017,28.4169896,692146,asia,ukraine
+saint-francois,gp,16.251047,-61.26971099999999,3578441,north america,guadeloupe (france)
+mitsamiouli,km,-11.3871698,43.2980711,921786,africa,comoros
+mahanje,tz,-9.917672,35.337528,155285,africa,tanzania
+sekoma,bw,-24.5141177,23.9313421,933102,africa,botswana
+poitiers,fr,46.58022400000001,0.340375,6445329,europe,france
+bubaque,gw,11.283333,-15.833333,2374583,africa,guinea-bissau
+mubi,ng,10.2603809,13.2605763,2329821,africa,nigeria
+son la,vn,21.1022284,103.7289167,1567681,asia,vietnam
+ca mau,vn,9.1526728,105.1960795,1586443,asia,vietnam
+marsh harbour,bs,26.5241653,-77.09098089999999,3571913,north america,"bahamas, the"
+dobrusevo,mk,41.1695006,21.4827377,791407,europe,macedonia
+sfantu gheorghe,ro,45.8609375,25.7885796,667306,europe,romania
+groningen,sr,5.7945432,-55.4790109,3384125,south america,suriname
+seeboden,at,46.8191073,13.5169461,7872791,europe,austria
+dinguiraye,gn,11.2899514,-10.7154228,2421903,africa,guinea
+kloulklubed,pw,7.040244599999999,134.256193,7671223,oceania,palau
+karnobat,bg,42.6511052,26.9803526,730559,europe,bulgaria
+black river,jm,18.0825057,-77.76769949999999,3491355,north america,jamaica
+jaunjelgava,lv,56.6123099,25.0789269,459402,europe,latvia
