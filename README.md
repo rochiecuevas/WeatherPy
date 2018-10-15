@@ -1,6 +1,6 @@
 # What is the relationship between geolocation and weather metrics?
 ## Overview
-OpenWeatherMap and Google Maps APIs are used to determine the relationship between the location of a random set of cities and current weather conditions in each of these cities on a particular day. The data is processed and visualised in a [jupyter notebook](https://github.com/rochiecuevas/WeatherPy/blob/master/WeatherPy.ipynb). Details and notes are found in the notebook.
+OpenWeatherMap and Google Maps APIs are used to determine the relationship between the location of a random set of cities and current weather conditions in each of these cities on a particular day. The data is processed and visualised in a [jupyter notebook](https://github.com/rochiecuevas/WeatherPy/blob/master/WeatherPy.ipynb). Details and notes are found in the notebook. References are accessible via the links.
 
 ## Procedure at a glance
 There are three main steps in retrieving and in processing the data:
@@ -19,12 +19,12 @@ Fig. 1. Cities randomly selected (N = 629)<br><br>
 Temperatures recorded on October 14, 2018 indicate that cities between the Equator and the 20th parallel north registered the warmest conditions. As cities grew farther north from the Equator, the temperature dropped. Likewise, the temperatures observed in the cities below the Equator went lower as they approached the South Pole. It was also observed that the temperatures were lower in the cities between the 40th and the 60th parallel north than in the cities between the 40th and the 60th parallel south. [Winter](https://sciencing.com/differences-between-northern-southern-hemisphere-8260091.html) is coming to the Northern Hemisphere but summer is approaching in the Southern Hemisphere.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_temp_20181014.png)<br>
-Fig. 2. Temperature readings (°F) across latitudes.
+Fig. 2. Temperature readings (°F) across latitudes.<br><br>
 
-
+[Humidity](https://www.nationalgeographic.org/encyclopedia/humidity/) is the concentration of moisture in the air. Unlike temperature which has a recognisable pattern, the data for humidity suggests that there is no direct linear relationship between humidity and latitude. However, cities in the [tropics](https://www.nationalgeographic.org/encyclopedia/tropics/) (between -23.5° and 23.5°) tended to have less variation in humidity than cities in the [temperate regions](http://www.polaris.iastate.edu/NorthStar/Unit5/unit5_sub1.htm) (north: 23.5–66.5° and south: -23.5– -66.5°). At the polar north, the cities tended to have humidiy readings close to 100%. 
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_hum_20181014.png)<br>
-Fig. 3. Humidity (%) across latitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 3. Humidity (%) across latitudes.<br><br>
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_cloud_20181014.png)<br>
 Fig. 4. Cloudiness (%) across latitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.
