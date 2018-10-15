@@ -3,9 +3,12 @@
 OpenWeatherMap and Google Maps APIs are used to determine the relationship between the location of a random set of cities and current weather conditions in each of these cities on a particular day. The data is processed and visualised in a [jupyter notebook](https://github.com/rochiecuevas/WeatherPy/blob/master/WeatherPy.ipynb). Details and notes are found in the notebook.
 
 ## Procedure at a glance
-There are three main steps in processing the data.
-1. 2000 random numbers were generated between -90 and 90 for latitude, and between -180 and 180 for longitude.
-2. 
+There are three main steps in retrieving and in processing the data:
+1. __Coordinate generation.__ 2000 random numbers are generated between -90 and 90 for latitude, and between -180 and 180 for longitude. The cities nearest to these coordinates are determined using Citipy. There are at least 500 cities identified.
+2. __Geolocating cities.__ The coordinates of the cities are determined using Google Maps' Geocoding API. 
+3. __Data cleaning.__ Cities with missing coordinates are dropped, as well as duplicates.
+4. __Weather data retrieval.__ Weather metrics (wind speed, humidity, cloudiness, and temperature) are extracted from OpeanWeatherMap through its API.
+5. __Visualisation.__ Scatterplots are used to visualise the extracted data.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/city_positions_20181014.png)<br>
 Fig. 1. Cities randomly selected (N = 629)
