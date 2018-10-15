@@ -26,8 +26,12 @@ Fig. 2. Temperature readings (°F) across latitudes.<br><br>
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_hum_20181014.png)<br>
 Fig. 3. Humidity (%) across latitudes.<br><br>
 
+There was no noticeable pattern between cloudiness and latitude. 
+
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_cloud_20181014.png)<br>
-Fig. 4. Cloudiness (%) across latitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 4. Cloudiness (%) across latitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.<br><br>
+
+Wind speeds indicate that there were no active typhoons or hurricanes in the randomly selected cities because the wind speed records were below [74 mph](https://www.nhc.noaa.gov/aboutsshws.php). On the other hand, winds had more uniform speeds in cities located near the Equator and the speeds became more varied the farther north or south the cities were. In the Southern Hemisphere, the area between 40 and 50° latitude is known as the ["Roaring Forties"](https://oceanservice.noaa.gov/facts/roaring-forties.html) 
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_wind_20181014.png)<br>
 Fig. 5. Wind speed (mph) across latitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.
