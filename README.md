@@ -1,10 +1,9 @@
-# What is the relationship between geolocation and weather metrics?
-## Overview
-What is the weather like in the rest of the world?
+## What is WeatherPy?
+WeatherPy is a nifty tool that creates scatterplots of weather metrics by geolocation for more than 500 randomly selected cities. 
 
-Data accessed through OpenWeatherMap and Google Maps APIs are used to determine the relationship between the location of a random set of cities and current weather conditions in each of these cities on a particular day. The data is processed and visualised via a Python script in a [jupyter notebook](https://github.com/rochiecuevas/WeatherPy/blob/master/WeatherPy.ipynb). Detailed instructions and notes are found in the notebook. Links in the notebook lead to the references or to the data resources. Running the script will most likely lead to a different set of cities because weather changes on a day-to-day basis. Outputs generated from the script are date-stamped; making it easy to differentiate results obtained on different dates.
+The coordinates of these cities are determined using Google Maps' Geocoding API. Weather data for each city is extracted from OpenWeatherMap API. Each time the script is run, a different number and set of cities will be generated. Weather changes on a day-to-day basis, leading to different results. Outputs generated from the script are date-stamped, making it easy to differentiate results obtained on different dates.
 
-As an example of outputs from the WeatherPy script, weather data was extracted on October 14th. Insights about geolocation and weather data are included in this report. 
+__Note:__ As an example of outputs from WeatherPy, weather data was extracted on October 14th. Insights about geolocation and weather data are included in this report. 
 
 ## Procedure at a glance
 There are five main steps in retrieving and in processing the data:
@@ -14,23 +13,7 @@ There are five main steps in retrieving and in processing the data:
 4. __Weather data retrieval.__ Weather metrics (wind speed, humidity, cloudiness, and temperature) are extracted from OpeanWeatherMap through its API.
 5. __Visualisation.__ Scatterplots are used to find trends in the extracted data.
 
-[Alt text](https://g.gravizo.com/svg?
-  digraph G {
-    aize ="4,4";
-    main [shape=box];
-    main -> parse [weight=8];
-    parse -> execute;
-    main -> init [style=dotted];
-    main -> cleanup;
-    execute -> { make_string; printf}
-    init -> make_string;
-    edge [color=red];
-    main -> printf [style=bold,label="100 times"];
-    make_string [label="make a string"];
-    node [shape=box,style=filled,color=".7 .3 1.0"];
-    execute -> compare;
-  }
-)
+[Alt text](https://g.gravizo.com/svg?digraph%20G%20%7B%0A...%20%20%20%20%20size%20%3D%224%2C4%22%3B%0A...%20%20%20%20%20main%20%5Bshape%3Dbox%5D%3B%0A...%20%20%20%20%20main%20-%3E%20parse%20%5Bweight%3D8%5D%3B%0A...%20%20%20%20%20parse%20-%3E%20execute%3B%0A...%20%20%20%20%20main%20-%3E%20init%20%5Bstyle%3Ddotted%5D%3B%0A...%20%20%20%20%20main%20-%3E%20cleanup%3B%0A...%20%20%20%20%20execute%20-%3E%20%7B%20make_string%3B%20printf%7D%0A...%20%20%20%20%20init%20-%3E%20make_string%3B%0A...%20%20%20%20%20edge%20%5Bcolor%3Dred%5D%3B%0A...%20%20%20%20%20main%20-%3E%20printf%20%5Bstyle%3Dbold%2Clabel%3D%22100%20times%22%5D%3B%0A...%20%20%20%20%20make_string%20%5Blabel%3D%22make%20a%20string%22%5D%3B%0A...%20%20%20%20%20node%20%5Bshape%3Dbox%2Cstyle%3Dfilled%2Ccolor%3D%22.7%20.3%201.0%22%5D%3B%0A...%20%20%20%20%20execute%20-%3E%20compare%3B%0A...%20%20%20%7D)
 
 ## October 14th, 2018: Cloudy with a chance of meatballs?
 A set of 629 cities from all over the world were randomly selected out of 2000 coordinates. Plotting the cities on a grid of latitudes (y-axis) and longitudes (x-axis) revealed that the cities followed the general shapes of the different continents. It revealed that many cities follow the coastlines; inner parts of of Africa, of Australia, and of South America had empty regions. The sparse region in Australia is most likely the desert [Outback](http://www.ga.gov.au/scientific-topics/national-location-information/landforms/deserts). In South America, the empty regions could include the [Patagonian Steppe](https://www.britannica.com/place/Patagonia-region-Argentina) (Argentina), [La Guajira desert](https://www.cnn.com/travel/article/colombia-desert-la-guajira/index.html) (Colombia), and the [Amazon rainforest](https://www.britannica.com/place/Amazon-Rainforest). More cities were selected south of the equator in Africa; the northern part of the continent is dominated by the [Sahara desert](https://www.livescience.com/23140-sahara-desert.html). It was notable that cities from small island nations in the Pacific were included in the random selection.
