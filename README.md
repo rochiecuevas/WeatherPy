@@ -31,7 +31,7 @@ There was no noticeable pattern between cloudiness and latitude.
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_cloud_20181014.png)<br>
 Fig. 4. Cloudiness (%) across latitudes.<br><br>
 
-Wind speeds indicate that there were no active typhoons or hurricanes in the randomly selected cities because the wind speed records were below [74 mph](https://www.nhc.noaa.gov/aboutsshws.php). On the other hand, winds had more uniform speeds in cities located near the Equator and the speeds became more varied the farther north or south the cities were. In the Southern Hemisphere, the area around 40 and 50° latitude is known as the ["Roaring Forties"](https://oceanservice.noaa.gov/facts/roaring-forties.html) because of [gale force winds](https://en.wikipedia.org/wiki/Gale). But on this particular day, the wind was relatively weak, with only one city registering wind at around 34 mph.
+Wind speeds indicate that there were no active typhoons or hurricanes in the randomly selected cities because the wind speed records were below [74 mph](https://www.nhc.noaa.gov/aboutsshws.php). On the other hand, winds had more uniform speeds in cities located near the Equator and the speeds became more varied the farther north or south the cities were. In the Southern Hemisphere, the area around 40 and 50° latitude is known as the ["Roaring Forties"](https://oceanservice.noaa.gov/facts/roaring-forties.html) because of [gale force winds](https://en.wikipedia.org/wiki/Gale). But on this particular day, the wind was relatively weak, with only one city registering wind at around 34 mph. Near the Equator, the winds are typically [calm](https://oceanservice.noaa.gov/facts/doldrums.html) because the air in here tend to go upwards, which causes low movement of air on the surface.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_wind_20181014.png)<br>
 Fig. 5. Wind speed (mph) across latitudes.<br><br>
@@ -51,17 +51,23 @@ The amount of cloud cover also did not appear to be related with the distance of
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/long_cloud_20181014.png)<br>
 Fig. 8. Cloudiness (%) across longitudes.<br><br>
 
-
+From east to west, the winds in the selected cities were mostly slow-moving. Based on the scatterplot, wind speeds tended to vary more at longitudes that coincide with longer landmasses (north to south). With the range largely uniform, the plot indicates that the variation is on the distance from the Equator rather than the distance from the Prime Meridian.  
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/long_wind_20181014.png)<br>
 Fig. 9. Wind speed (mph) across longitudes.<br><br>
 
+There was no obvious relationship between wind speed and humidity. But this graph indicates that most of the cities included in the study had 60–100% humidity. This indicates that more human settlements are found in more humid areas than in arid deserts, supporting the presumption that the sparse areas inside landmass outlines in the latitude-longitude matrix are deserts. And with the cities dotting the coastline, it is just expected to observe the predominance of humid cities.
+
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/hum_wind_20181014.png)<br>
-Fig. 10. Relationship between wind speed (mph) and humidity (%). Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 10. Relationship between wind speed (mph) and humidity (%). <br><br>
+
+Though cities with humidity ranging from 0 to 100% could have 0% cloudiness, it was observed that the range of cloudiness tended to increase with humidity. 
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/hum_cloud_20181014.png)<br>
-Fig. 11. Relationship between cloudiness (%) and humidity (%). Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 11. Relationship between cloudiness (%) and humidity (%).<br><br>
+
+Cloudiness did not seem to be related with wind speed.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/cloud_wind_20181014.png)<br>
-Fig. 12. Relationship between cloudiness (%) and wind speed (mph). Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 12. Relationship between cloudiness (%) and wind speed (mph).<br><br>
 
