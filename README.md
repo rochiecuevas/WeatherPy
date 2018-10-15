@@ -29,24 +29,32 @@ Fig. 3. Humidity (%) across latitudes.<br><br>
 There was no noticeable pattern between cloudiness and latitude. 
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_cloud_20181014.png)<br>
-Fig. 4. Cloudiness (%) across latitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.<br><br>
+Fig. 4. Cloudiness (%) across latitudes.<br><br>
 
-Wind speeds indicate that there were no active typhoons or hurricanes in the randomly selected cities because the wind speed records were below [74 mph](https://www.nhc.noaa.gov/aboutsshws.php). On the other hand, winds had more uniform speeds in cities located near the Equator and the speeds became more varied the farther north or south the cities were. In the Southern Hemisphere, the area between 40 and 50° latitude is known as the ["Roaring Forties"](https://oceanservice.noaa.gov/facts/roaring-forties.html) 
+Wind speeds indicate that there were no active typhoons or hurricanes in the randomly selected cities because the wind speed records were below [74 mph](https://www.nhc.noaa.gov/aboutsshws.php). On the other hand, winds had more uniform speeds in cities located near the Equator and the speeds became more varied the farther north or south the cities were. In the Southern Hemisphere, the area around 40 and 50° latitude is known as the ["Roaring Forties"](https://oceanservice.noaa.gov/facts/roaring-forties.html) because of [gale force winds](https://en.wikipedia.org/wiki/Gale). But on this particular day, the wind was relatively weak, with only one city registering wind at around 34 mph.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_wind_20181014.png)<br>
-Fig. 5. Wind speed (mph) across latitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 5. Wind speed (mph) across latitudes.<br><br>
+
+Looking at temperature readings from east to west, there was no apparent relation between longitude and temperature.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/long_temp_20181014.png)<br>
-Fig. 6. Temperature readings (°F) across longitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 6. Temperature readings (°F) across longitudes.<br><br>
+
+There was no observable trend between longitude and humidity either.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/long_hum_20181014.png)<br>
-Fig. 7. Humidity (%) across longitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 7. Humidity (%) across longitudes.<br><br>
+
+The amount of cloud cover also did not appear to be related with the distance of each city from the Prime Meridian.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/long_cloud_20181014.png)<br>
-Fig. 8. Cloudiness (%) across longitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 8. Cloudiness (%) across longitudes.<br><br>
+
+
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/long_wind_20181014.png)<br>
-Fig. 9. Wind speed (mph) across longitudes. Data retrieved from OpenWeatherMap API on 2018-10-14.
+Fig. 9. Wind speed (mph) across longitudes.<br><br>
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/hum_wind_20181014.png)<br>
 Fig. 10. Relationship between wind speed (mph) and humidity (%). Data retrieved from OpenWeatherMap API on 2018-10-14.
