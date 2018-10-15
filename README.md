@@ -1,5 +1,11 @@
 # What is the relationship between geolocation and weather metrics?
 ## Overview
+OpenWeatherMap and Google Maps APIs are used to determine the relationship between the location of a random set of cities and current weather conditions in each of these cities on a particular day. The data is processed and visualised in a [jupyter notebook](https://github.com/rochiecuevas/WeatherPy/blob/master/WeatherPy.ipynb). Details and notes are found in the notebook.
+
+## Procedure at a glance
+There are three main steps in processing the data.
+1. 2000 random numbers were generated between -90 and 90 for latitude, and between -180 and 180 for longitude.
+2. 
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/city_positions_20181014.png)<br>
 Fig. 1. Cities randomly selected (N = 629)
