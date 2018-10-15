@@ -14,10 +14,10 @@ There are five main steps in retrieving and in processing the data:
 
 ||Step|Description|Output|
 |---|---|---|---|
-|1|Coordinate generation|* 2000 random numbers are generated between -90 and 90 for latitude  * 2000 random numbers are generated between -180 and 180 for longitude  * at least 500 nearby cities identified|nearby_cities_{YYYYmmdd}.csv|
-|2|Geolocating cities|* Coordinates of cities determined using Google Maps' Geocoding API  * Plot of city locations|city_positions_{YYYYmmdd}.csv|
-|3|Data cleaning|Drop:  * cities with missing coordinates  * duplicate cities|city_list_{YYYYmmdd}.csv|
-|4|Weather data retrieval|Extract from OpenWeatherMap API:  * wind speed  * humidity  * cloudiness  * temperature|weather_output_{YYYYmmdd}.csv|
+|1|Coordinate generation|* 2000 random numbers are generated between -90 and 90 for latitude<br>* 2000 random numbers are generated between -180 and 180 for longitude<br>* at least 500 nearby cities identified|nearby_cities_{YYYYmmdd}.csv|
+|2|Geolocating cities|* Coordinates of cities determined using Google Maps' Geocoding API<br>* Plot of city locations|city_positions_{YYYYmmdd}.csv|
+|3|Data cleaning|Drop:<br>* cities with missing coordinates<br>* duplicate cities|city_list_{YYYYmmdd}.csv|
+|4|Weather data retrieval|Extract from OpenWeatherMap API:<br>* wind speed<br>* humidity<br>* cloudiness<br>* temperature|weather_output_{YYYYmmdd}.csv|
 |5|Visualisation|Scatterplots||
 
 
