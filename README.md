@@ -8,17 +8,13 @@ __Note:__ As an example of outputs from WeatherPy, weather data was extracted on
 ## Procedure at a glance
 There are five main steps in retrieving and in processing the data:
 
-
-
-5. __.__ Scatterplots are used to find trends in the extracted data.
-
-||Step|Description|Output|
-|---|---|---|---|
-|1|Coordinate generation|* 2000 random numbers are generated between -90 and 90 for latitude<br>* 2000 random numbers are generated between -180 and 180 for longitude<br>* at least 500 nearby cities identified|nearby_cities_{YYYYmmdd}.csv|
-|2|Geolocating cities|* Coordinates of cities determined using Google Maps' Geocoding API<br>* Plot of city locations|city_positions_{YYYYmmdd}.csv|
-|3|Data cleaning|Drop:<br>* cities with missing coordinates<br>* duplicate cities|city_list_{YYYYmmdd}.csv|
-|4|Weather data retrieval|Extract from OpenWeatherMap API:<br>* wind speed<br>* humidity<br>* cloudiness<br>* temperature|weather_output_{YYYYmmdd}.csv|
-|5|Visualisation|Scatterplots||
+|No.|Step|Description|
+|---|---|---|
+|1|Coordinate generation|* 2000 random numbers are generated between -90 and 90 for latitude<br>* 2000 random numbers are generated between -180 and 180 for longitude<br>* at least 500 nearby cities identified|
+|2|Geolocating cities|* Latitude and longitude of cities determined using Google Maps' Geocoding API<br>* Plot of city locations|
+|3|Data cleaning|Drop:<br>* cities with missing coordinates<br>* duplicate cities|
+|4|Weather data retrieval|Extract from OpenWeatherMap API:<br>* wind speed<br>* humidity<br>* cloudiness<br>* temperature|
+|5|Visualisation|Scatterplots for each variable pair|
 
 
 ## October 14th, 2018: Cloudy with a chance of meatballs?
@@ -81,4 +77,3 @@ Cloudiness did not seem to be related with wind speed.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/cloud_wind_20181014.png)<br>
 Fig. 12. Relationship between cloudiness (%) and wind speed (mph).<br><br>
-
