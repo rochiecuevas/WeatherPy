@@ -15,7 +15,7 @@ There are five main steps in retrieving and in processing the data:
 
 ||Step|Description|Output|
 |---|---|---|---|
-|1|Coordinate generation|2000 random numbers are generated between -90 and 90 for latitude\n2000 random numbers are generated between -180 and 180 for longitude|city_list_YYYYmmdd.csv|
+|1|Coordinate generation|2000 random numbers are generated between -90 and 90 for latitude  2000 random numbers are generated between -180 and 180 for longitude|city_list_YYYYmmdd.csv|
 
 ## October 14th, 2018: Cloudy with a chance of meatballs?
 A set of 629 cities from all over the world were randomly selected out of 2000 coordinates. Plotting the cities on a grid of latitudes (y-axis) and longitudes (x-axis) revealed that the cities followed the general shapes of the different continents. It revealed that many cities follow the coastlines; inner parts of of Africa, of Australia, and of South America had empty regions. The sparse region in Australia is most likely the desert [Outback](http://www.ga.gov.au/scientific-topics/national-location-information/landforms/deserts). In South America, the empty regions could include the [Patagonian Steppe](https://www.britannica.com/place/Patagonia-region-Argentina) (Argentina), [La Guajira desert](https://www.cnn.com/travel/article/colombia-desert-la-guajira/index.html) (Colombia), and the [Amazon rainforest](https://www.britannica.com/place/Amazon-Rainforest). More cities were selected south of the equator in Africa; the northern part of the continent is dominated by the [Sahara desert](https://www.livescience.com/23140-sahara-desert.html). It was notable that cities from small island nations in the Pacific were included in the random selection.
