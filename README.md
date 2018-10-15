@@ -7,15 +7,23 @@ __Note:__ As an example of outputs from WeatherPy, weather data was extracted on
 
 ## Procedure at a glance
 There are five main steps in retrieving and in processing the data:
-1. __Coordinate generation.__ , and between -180 and 180 for longitude. The cities nearest to these coordinates are determined using Citipy. There are at least 500 cities identified.
-2. __Geolocating cities.__ The coordinates of the cities are determined using Google Maps' Geocoding API. 
-3. __Data cleaning.__ Cities with missing coordinates are dropped, as well as duplicates.
-4. __Weather data retrieval.__ Weather metrics (wind speed, humidity, cloudiness, and temperature) are extracted from OpeanWeatherMap through its API.
-5. __Visualisation.__ Scatterplots are used to find trends in the extracted data.
+
+
+
+5. __.__ Scatterplots are used to find trends in the extracted data.
 
 ||Step|Description|Output|
 |---|---|---|---|
-|1|Coordinate generation|2000 random numbers are generated between -90 and 90 for latitude  2000 random numbers are generated between -180 and 180 for longitude|city_list_YYYYmmdd.csv|
+|1|Coordinate generation|* 2000 random numbers are generated between -90 and 90 for latitude  * 2000 random numbers are generated between -180 and 180 for longitude  * at least 500 nearby cities identified|nearby_cities_{YYYYmmdd}.csv|
+|---|---|---|---|
+|2|Geolocating cities|* Coordinates of cities determined using Google Maps' Geocoding API  * Plot of city locations|city_positions_{YYYYmmdd}.csv|
+|---|---|---|---|
+|3|Data cleaning|Drop:  * cities with missing coordinates  * duplicate cities|city_list_{YYYYmmdd}.csv|
+|---|---|---|---|
+|4|Weather data retrieval|Extract from OpenWeatherMap API:  * wind speed  * humidity  * cloudiness  * temperature|weather_output_{YYYYmmdd}.csv|
+|---|---|---|---|
+|5|Visualisation|Scatterplots|
+
 
 ## October 14th, 2018: Cloudy with a chance of meatballs?
 A set of 629 cities from all over the world were randomly selected out of 2000 coordinates. Plotting the cities on a grid of latitudes (y-axis) and longitudes (x-axis) revealed that the cities followed the general shapes of the different continents. It revealed that many cities follow the coastlines; inner parts of of Africa, of Australia, and of South America had empty regions. The sparse region in Australia is most likely the desert [Outback](http://www.ga.gov.au/scientific-topics/national-location-information/landforms/deserts). In South America, the empty regions could include the [Patagonian Steppe](https://www.britannica.com/place/Patagonia-region-Argentina) (Argentina), [La Guajira desert](https://www.cnn.com/travel/article/colombia-desert-la-guajira/index.html) (Colombia), and the [Amazon rainforest](https://www.britannica.com/place/Amazon-Rainforest). More cities were selected south of the equator in Africa; the northern part of the continent is dominated by the [Sahara desert](https://www.livescience.com/23140-sahara-desert.html). It was notable that cities from small island nations in the Pacific were included in the random selection.
