@@ -42,12 +42,12 @@ Wind speeds indicate that there were no active typhoons or hurricanes in the ran
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_wind_20181014.png)<br>
 Fig. 5. Wind speed (mph) across latitudes.<br><br>
 
-There was no apparent relation between longitude and temperature.
+There was no apparent relation between longitude and temperature. However, on October 14th, the temperatures in cities at the Prime Meridian were less varied than the temperatures to east or to the west of the Prime Meridian. 
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/long_temp_20181014.png)<br>
 Fig. 6. Temperature readings (°F) across longitudes.<br><br>
 
-There was no observable trend between longitude and humidity either.
+Likewise, there was no observable trend between longitude and humidity.
 
 ![alt text](https://github.com/rochiecuevas/WeatherPy/blob/master/Images/long_hum_20181014.png)<br>
 Fig. 7. Humidity (%) across longitudes.<br><br>
