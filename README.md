@@ -1,17 +1,24 @@
 ## What is WeatherPy?
-WeatherPy is a nifty tool that creates scatterplots of weather metrics by geolocation for more than 500 randomly selected cities. 
+WeatherPy is a nifty tool that creates scatterplots of weather metrics by geolocation for more than 500 randomly selected cities. The code is written in Python in a jupyter notebook found [here](https://github.com/rochiecuevas/WeatherPy/blob/master/WeatherPy.ipynb).
 
-The coordinates of these cities are determined using Google Maps' Geocoding API. Weather data for each city is extracted from OpenWeatherMap API. Each time the script is run, a different number and set of cities will be generated. Weather changes on a day-to-day basis, leading to different results. Outputs generated from the script are date-stamped, making it easy to differentiate results obtained on different dates.
+Each time the script is run, a different number and set of cities will be generated. Weather conditions change on a day-to-day basis, leading to different results. Hence, outputs generated from the script are date-stamped, making it easy to differentiate images and .csv files obtained on different dates.
 
-__Note:__ As an example of outputs from WeatherPy, weather data was extracted on October 14th. Insights about geolocation and weather data are included in this report. 
+__Note:__ As an example of outputs from WeatherPy, weather data was extracted on October 14th. Insights about trends between geolocation and weather data are included. 
+
+## Pre-requisites
+Create a text file called `config.py` which contains the following API keys:
+1. `api_key` =  your OpenWeatherMap API key 
+2. `gkey` = your Google Maps API key
+
+Keep this file offline for security purposes. See Google's tips on securing API keys [here](https://cloud.google.com/docs/authentication/api-keys).
 
 ## Procedure at a glance
 There are four main steps in retrieving and in processing the data:
 
 |No.|Step|Description|
 |---|---|---|
-|1|Coordinate generation|* 2000 random numbers are generated between -90 and 90 for latitude<br>* 2000 random numbers are generated between -180 and 180 for longitude<br>* Nearby cities identified<br>* Drop duplicate nearby cities<br>* At least 500 cities identified|
-|2|Geolocating cities|* Latitude and longitude of cities determined using Google Maps' Geocoding API<br>* Drop cities with missing coordinates<br>* Plot of city locations|
+|1|Coordinate generation|* 2000 random numbers are generated between -90 and 90 for latitude<br>* 2000 random numbers are generated between -180 and 180 for longitude<br>* Nearest cities identified using CitiPy<br>* Drop duplicate nearest cities<br>* More than 500 cities identified|
+|2|Geolocating cities|* Latitude and longitude of cities determined using Google Maps' Geocoding API<br>* Drop cities with missing coordinates<br>* At least 500 cities remain<br>* Plot city locations by their coordinates|
 |3|Weather data retrieval|Extract from OpenWeatherMap API:<br>* wind speed<br>* humidity<br>* cloudiness<br>* temperature|
 |4|Visualisation|Scatterplots for each variable pair|
 
