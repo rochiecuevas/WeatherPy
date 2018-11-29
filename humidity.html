@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Link to the CSS stylesheet -->
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- Bootstrap Stylesheet -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <title>humidity</title>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class = "navbar navbar-default">
+        <div class = "container-fluid">
+            <div class = "navbar-header">
+                <button type = "button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class = "icon-bar"></span>
+                    <span class = "icon-bar"></span>
+                    <span class = "icon-bar"></span>
+                </button>
+                <a class = "navbar-brand" href = "./index.html"><span class = "glyphicon glyphicon-home"></span> WeatherPy</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class = "nav navbar-nav navbar-right">
+                    <li class = "dropdown">
+                        <a class = "dropdown-toggle" data-toggle = "dropdown" href = "#">Plots
+                        <span class = "caret"></span></a>
+                        <ul class = "dropdown-menu">
+                            <li><a href = "./cloudiness.html">Cloudiness</a></li>
+                            <li class = "active"><a href = "./humidity.html">Humidity</a></li>
+                            <li><a href = "./temperature.html">Max Temperature</a></li>
+                            <li><a href = "./wind_speed.html">Wind Speed</a></li>
+                        </ul>
+                    </li>
+                    <li><a href = "./data.html">Data</a></li>
+                    <li><a href = "./comparison.html">Comparison</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class = "container">
+        <div class = "row">
+            <!-- Humidity information -->
+            <div class = "col-md-9">
+                <h3>Latitude and Humidity</h3>
+
+                <hr>
+
+                <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_hum_20181014.png?raw=True" alt = "latitude and humidity" width = 100%/>
+
+                <p><a href = "https://www.nationalgeographic.org/encyclopedia/humidity/">Humidity</a> is the concentration of moisture in the air. Unlike temperature which has a recognisable pattern, the data for humidity suggests that there is no direct linear relationship between humidity and latitude. However, cities in the <a href = "https://www.nationalgeographic.org/encyclopedia/tropics/">tropics</a> (between -23.5° and 23.5°) tended to have less variation in humidity than cities in the <a href = "http://www.polaris.iastate.edu/NorthStar/Unit5/unit5_sub1.html">temperate regions</a> (north: 23.5–66.5° and south: -23.5– -66.5°). At the polar north, the cities tended to have humidiy readings close to 100%.</p>
+            </div>
+
+            <!-- Links to visualisation -->
+            <div class = "col-md-3">
+                <h3>Visualisation</h3>
+
+                <hr>
+
+                <ul class = "a">
+                    <li>
+                        <a href = "./cloudiness.html">
+                            <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_cloud_20181014.png?raw=True" alt = "latitude and cloudiness" width = 100%/>
+                        </a>
+                    </li>
+                    <li class = "active">
+                        <a href = "./humidity.html">
+                            <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_hum_20181014.png?raw=True" alt = "latitude and humidity" width = 100%/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href = "./temperature.html">
+                            <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_temp_20181014.png?raw=True" alt = "latitude and max temperature" width = 100%/>
+                        </a>
+                    </li>
+                    <li>
+                        <a href = "./wind_speed.html">
+                            <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_wind_20181014.png?raw=True" alt = "latitude and wind speed" width = 100%/>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

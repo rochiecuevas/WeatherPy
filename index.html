@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang = "eng-us">
+    <head>
+        <meta charset = "UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        
+        <!-- Link to the CSS stylesheet -->
+        <link href="css/main.css" rel="stylesheet">
+        
+        <!-- Bootstrap Stylesheet -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        <title>landing page</title>
+    </head>
+
+    <body>
+        <!-- Navigation -->
+        <nav class = "navbar navbar-default">
+            <div class = "container-fluid">
+                <div class = "navbar-header">
+                    <button type = "button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class = "icon-bar"></span>
+                        <span class = "icon-bar"></span>
+                        <span class = "icon-bar"></span>
+                    </button>
+                    <a class = "navbar-brand" href = "./index.html"><span class = "glyphicon glyphicon-home"></span> WeatherPy</a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class = "nav navbar-nav navbar-right">
+                        <li class = "dropdown">
+                            <a class = "dropdown-toggle" data-toggle = "dropdown" href = "#">Plots
+                            <span class = "caret"></span></a>
+                            <ul class = "dropdown-menu">
+                                <li><a href = "./cloudiness.html">Cloudiness</a></li>
+                                <li><a href = "./humidity.html">Humidity</a></li>
+                                <li><a href = "./temperature.html">Max Temperature</a></li>
+                                <li><a href = "./wind_speed.html">Wind Speed</a></li>
+                            </ul>
+                        </li>
+                        <li><a href = "./data.html">Data</a></li>
+                        <li><a href = "./comparison.html">Comparison</a></li>
+                    </ul>
+                </div>
+            </div>    
+        </nav>
+
+        <div class = "container">
+            <div class = "row">
+                <!-- Introduction -->
+                <div class = "col-md-9">
+                    <p><font size = "5"><i><b>WeatherPy</b></i></font> is a tool that creates scatterplots of weather metrics based on geolocation data for over 500 randomly selected cities from all over the world. It helps us visualise relationships between the location of a city relative to the equator and some weather metrics such as temperature, cloudiness, humidity, and wind speed.</p>
+
+                    <p>WeatherPy selects at least 500 cities from 2,000 randomly generated coordinates using <a href = "https://pypi.org/project/citipy/">CityPy</a> and determines their locations based on <a href = "https://www.google.com/maps">Google Maps</a>. The weather for each city is extracted from <a href = "https://openweathermap.org/">OpenWeatherMap</a>. The graphs were then created using <a href = "https://matplotlib.org/">Matplotlib</a>.</p>
+
+                    <p>Let's explore the weather trends for 629 cities on <a href = "https://www.nytimes.com/issue/todayspaper/2018/10/14/todays-new-york-times">October 14th, 2018</a>. <br>
+                    <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/city_positions_20181014.png?raw=True" alt = "city map" width = 100%/></p>
+
+                    <p>Based on the map, many cities selected follow the coastlines; inner parts of of Africa, of Australia, and of South America had sparsely dotted regions (i.e., not a lot of cities were selected from these areas). The sparse region in Australia is most likely the desert <a href = "http://www.ga.gov.au/scientific-topics/national-location-information/landforms/deserts">Outback</a>. In South America, the empty regions could include the <a href = "https://www.britannica.com/place/Patagonia-region-Argentina">Patagonian Steppe</a> (Argentina), <a href = "https://www.cnn.com/travel/article/colombia-desert-la-guajira/index.html">La Guajira desert</a> (Colombia), and the <a href = "https://www.britannica.com/place/Amazon-Rainforest">Amazon rainforest</a>. More cities were selected south of the equator in Africa; the northern part of the continent has fewer cities because it is dominated by the <a href = "https://www.livescience.com/23140-sahara-desert.html">Sahara desert</a>. It was notable that cities from small island nations in the Pacific and the Atlantic were included in the random selection.</p>
+                </div>
+
+                <!-- Links to visualisation -->
+                <div class = "col-md-3">
+                    <h3>Visualisation</h3>
+
+                    <hr>
+
+                    <ul class = "a">
+                        <li>
+                            <a href = "./cloudiness.html">
+                                <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_cloud_20181014.png?raw=True" alt = "latitude and cloudiness" width = 100%/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "./humidity.html">
+                                <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_hum_20181014.png?raw=True" alt = "latitude and humidity" width = 100%/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "./temperature.html">
+                                <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_temp_20181014.png?raw=True" alt = "latitude and max temperature" width = 100%/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "./wind_speed.html">
+                                <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_wind_20181014.png?raw=True" alt = "latitude and wind speed" width = 100%/>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

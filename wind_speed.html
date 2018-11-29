@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang = "eng-us">
+    <head>
+        <meta charset = "UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        
+        <!-- Link to the CSS stylesheet -->
+        <link href="css/main.css" rel="stylesheet">
+        
+        <!-- Bootstrap Stylesheet -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        <title>landing page</title>
+    </head>
+
+    <body>
+        <!-- Navigation -->
+        <nav class = "navbar navbar-default">
+            <div class = "container-fluid">
+                <div class = "navbar-header">
+                    <button type = "button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class = "icon-bar"></span>
+                        <span class = "icon-bar"></span>
+                        <span class = "icon-bar"></span>
+                    </button>
+                    <a class = "navbar-brand" href = "./index.html"><span class = "glyphicon glyphicon-home"></span> WeatherPy</a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class = "nav navbar-nav navbar-right">
+                        <li class = "dropdown">
+                            <a class = "dropdown-toggle" data-toggle = "dropdown" href = "#">Plots
+                            <span class = "caret"></span></a>
+                            <ul class = "dropdown-menu">
+                                <li><a href = "./cloudiness.html">Cloudiness</a></li>
+                                <li><a href = "./humidity.html">Humidity</a></li>
+                                <li><a href = "./temperature.html">Max Temperature</a></li>
+                                <li class = "active"><a href = "./wind_speed.html">Wind Speed</a></li>
+                            </ul>
+                        </li>
+                        <li><a href = "./data.html">Data</a></li>
+                        <li><a href = "./comparison.html">Comparison</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class = "container">
+            <div class = "row">
+                <!-- Wind speed information -->
+                <div class = "col-md-9">
+                        <h3>Latitude and Wind Speed</h3>
+
+                        <hr>
+
+                        <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_wind_20181014.png?raw=True" alt = "latitude and wind speed" width = 100%/>
+
+                        <p>Wind speeds indicate that there were no active typhoons or hurricanes in the randomly selected cities because the wind speed records were below <a href = "https://www.nhc.noaa.gov/aboutsshws.php">74 mph</a>. On the other hand, winds had more uniform speeds in cities located near the Equator and the speeds became more varied the farther north or south the cities were. In the Southern Hemisphere, the area around 40 and 50° latitude is known as the <a href = "https://oceanservice.noaa.gov/facts/roaring-forties.html">"Roaring Forties"</a> because of <a href = "https://en.wikipedia.org/wiki/Gale">gale force winds</a>. But on this particular day, the wind was relatively weak, with only one city registering wind at around 34 mph. Near the Equator, the winds are typically <a href = "https://oceanservice.noaa.gov/facts/doldrums.html">calm</a> because the air in here tend to go upwards, which causes low movement of air on the surface.</p>
+                </div>
+
+                <!-- Links to visualisation -->
+                <div class = "col-md-3">
+                    <h3>Visualisation</h3>
+
+                    <hr>
+
+                    <ul class = "a">
+                        <li>
+                            <a href = "./cloudiness.html">
+                                <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_cloud_20181014.png?raw=True" alt = "latitude and cloudiness" width = 100%/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "./humidity.html">
+                                <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_hum_20181014.png?raw=True" alt = "latitude and humidity" width = 100%/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href = "./temperature.html">
+                                <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_temp_20181014.png?raw=True" alt = "latitude and max temperature" width = 100%/>
+                            </a>
+                        </li>
+                        <li class = "active">
+                            <a href = "./wind_speed.html">
+                                <img src = "https://github.com/rochiecuevas/WeatherPy/blob/master/Images/lat_wind_20181014.png?raw=True" alt = "latitude and wind speed" width = 100%/>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
